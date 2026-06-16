@@ -2,8 +2,6 @@
 
 A responsive landing page for a fictional café, built as a Bootstrap 5 practice project. Covers a wide range of Bootstrap components in a realistic, content-rich single-page layout.
 
-🔗 **[Live Demo](#)** <!-- replace with your GitHub Pages URL -->
-
 ---
 
 ## Overview
